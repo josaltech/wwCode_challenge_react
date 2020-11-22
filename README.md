@@ -1,2 +1,2 @@
 # WWCode_challenge_Frontend
-WWCodeChallenge
+Challenge #1

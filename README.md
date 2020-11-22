@@ -1,2 +1,2 @@
-# wwCode_challenge_Frontend
+# WWCode_challenge_Frontend
 WWCodeChallenge
